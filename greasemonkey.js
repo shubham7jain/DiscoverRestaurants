@@ -167,9 +167,6 @@
 
         for(i = 0; i < allList.length; i++) {
             // Not present
-            console.log("dasaadda");
-            console.log(allList[i]['Merchant Name']);
-            console.log(orderedNames);
             if(orderedNames.indexOf(allList[i]['Merchant Name']) <= -1) {
                 console.log("Not found");
                 data = {
