@@ -67,6 +67,12 @@ def lambda_handler(event, context):
     response_body = requests.get(url + queryParams, headers=headers)
     merchant_data = json.loads(response_body.content)
 
+    ### Calling the offers api with the city name
+    url = 'https://api.discover.com/dci-offers/v2/offers/1'
+    headers = {'Accept': 'application/json', 'x-dfs-api-plan': 'DCIOFFERS_SANDBOX',
+               'Authorization': 'Bearer ' + str(access_token)}
+    response_body = requests.get(url, headers=headers)
+
     dataArray = merchant_data["result"]
     print len(dataArray)
     #if len(dataArray) > 5:
@@ -83,7 +89,7 @@ def lambda_handler(event, context):
         restaurant_long = merchant_data['point'][0]
         restaurant_city = merchant_data['city']
         yelp_api = YelpAPI(
-        'BN8JZVUhnK-l5UAaCyr2XUGW-sqbIqtO8q-OTs8axYBoDs5YQFsP4BIZbnRuhz6yHnaOHACSZK52MxdNjmFKNgmJEs13FDBORJEDjBSkIypTut80bRLVUsYzmmUMXHYx')
+        'u-ZYmzBtbRVZZl8hp0SVOvb6huwm2p_eUAQuMRShwGm-9ekUqtCcSk8DtsJXjorPPOcg12tl4qwVR71W9hggXRspcvr0uEAtjVkYnR1FOxLpgVsv6-Hs5HSSgVQMXHYx')
         
         print('navneet')
         #  New York
