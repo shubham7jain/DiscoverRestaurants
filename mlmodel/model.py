@@ -41,7 +41,7 @@ def Model():
     
     res = []
     for scores in result:
-        res.append(result[0][1])
+        res.append(scores[1])
 
     print(res)
     return res

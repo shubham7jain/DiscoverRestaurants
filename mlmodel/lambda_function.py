@@ -75,6 +75,7 @@ def lambda_handler(event, context):
     final_response_array = []
     count = 1
     for merchant_data in dataArray:
+        print("Discover")
         print merchant_data
         #merchant_data = json.loads(merchant_data)
         restaurant_name = merchant_data['name']
@@ -104,7 +105,7 @@ def lambda_handler(event, context):
         final_response['review_count'] = response['review_count']
         final_response['is_closed'] = response['is_closed']
         ## code added
-        if len(merchant_data['privileges_ids']) >=1:
+        if len(merchant_data['privileges_url']) >= 1:
             final_response['is_privilege'] = '1'
         else:
             final_response['is_privilege'] = '0'
@@ -140,8 +141,10 @@ def lambda_handler(event, context):
     writeFile.close()
     
     result = Model()
+    print(result)
+    print(final_response_array)
     sorted_array = [x for _,x in sorted(zip(result,final_response_array), reverse=True)]
-
+    print(sorted_array)
 
     return respond(None, {"result": sorted_array})
 
