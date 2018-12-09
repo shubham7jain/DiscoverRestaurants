@@ -1,0 +1,172 @@
+offers,ratings,res,reviews,tags
+0,4.5,0,37,mediterranean 
+0,4.0,0,110,korean 
+1,4.5,1,7105,bakeries 
+1,4.0,1,758,smokehouse 
+1,4.0,1,194,chinese noodles burgers 
+1,5.0,1,2,ramen soup popupshops 
+0,4.0,0,2630,southern bbq breakfast_brunch 
+0,4.5,0,408,vietnamese coffee 
+1,4.5,1,1175,bakeries donuts 
+0,4.0,0,2537,pizza italian 
+1,4.5,1,1236,pizza 
+0,4.5,0,216,ramen burgers 
+1,4.5,1,74,polish 
+0,5.0,0,7,delis turkish 
+0,4.5,0,62,pastashops 
+1,4.5,1,244,mediterranean tapasmallplates cocktailbars 
+0,4.5,0,312,coffee breakfast_brunch 
+1,4.5,1,10,foodtrucks 
+0,4.5,0,84,pubs gastropubs irish 
+0,4.0,0,13,beergardens 
+1,4.5,1,57,bars 
+1,5.0,1,61,cocktailbars whiskeybars 
+0,4.0,0,27,divebars 
+1,4.5,1,114,pubs cocktailbars 
+0,4.0,0,21,divebars beergardens pubs 
+1,4.0,1,70,bars breakfast_brunch newamerican 
+0,5.0,0,15,bars 
+1,4.5,1,111,breakfast_brunch beerbar 
+1,4.0,1,49,mexican bars 
+0,4.0,0,701,lounges cocktailbars 
+0,3.5,0,41,bars 
+0,4.5,0,21,cocktailbars speakeasies tapasmallplates 
+1,4.0,1,1337,cocktailbars 
+0,4.5,0,24,newamerican cocktailbars 
+0,4.5,0,6,bars 
+0,4.5,0,112,cocktailbars 
+1,4.5,1,149,bars newamerican 
+1,4.5,1,13,bars sandwiches tapasmallplates 
+0,4.0,0,27,sportsbars 
+0,4.0,0,157,pubs 
+0,4.5,0,6,pizza bars 
+0,4.0,0,29,cocktailbars tacos 
+0,4.0,0,116,bars 
+1,4.5,1,364,beerbar burgers newamerican 
+0,4.5,0,63,bars cafes 
+1,3.5,1,22,bars danceclubs tacos 
+0,5.0,0,18,cocktailbars 
+1,5.0,1,2,venues tapasmallplates cocktailbars 
+0,4.5,0,37,bars mediterranean 
+0,4.5,0,83,cocktailbars 
+1,4.5,1,123,bars 
+0,4.5,0,15,bars 
+0,5.0,0,6,tacos cocktailbars 
+0,4.0,0,83,pubs sportsbars irish_pubs 
+0,4.0,0,394,bars 
+0,4.5,0,22,sushi lounges ramen 
+1,4.0,1,16,movietheaters tradamerican bars 
+0,4.5,0,19,tikibars 
+0,4.5,0,33,mexican cocktailbars newamerican 
+0,5.0,0,23,cocktailbars tacos wine_bars 
+0,4.5,0,28,cocktailbars wine_bars italian 
+0,4.0,0,84,bars 
+0,5.0,0,53,bars 
+1,4.5,1,188,newamerican cocktailbars sportsbars 
+1,4.0,1,35,bars 
+1,4.0,1,12,newamerican burgers sandwiches 
+0,4.5,0,255,spanish wine_bars tapasmallplates 
+0,4.5,0,320,cafes italian breakfast_brunch 
+1,4.5,1,20,newamerican catering 
+1,4.0,1,31,newamerican cocktailbars breakfast_brunch 
+1,4.5,1,18,newamerican bars breakfast_brunch 
+1,4.5,1,33,italian wine_bars breakfast_brunch 
+0,3.5,0,342,newamerican diners breakfast_brunch 
+1,4.0,1,132,newamerican breakfast_brunch wine_bars 
+1,4.0,1,383,newamerican 
+1,4.0,1,68,newamerican cocktailbars breakfast_brunch 
+1,4.0,1,120,italian 
+0,4.5,0,189,italian 
+1,3.5,1,10,newamerican cocktailbars breakfast_brunch 
+0,4.0,0,75,newamerican cocktailbars 
+1,5.0,1,112,newamerican bars 
+1,4.0,1,181,pizza italian 
+1,4.0,1,83,newamerican seafood pizza 
+0,4.5,0,128,french 
+1,4.5,1,21,newamerican 
+0,4.5,0,111,newamerican seafood cocktailbars 
+0,4.5,0,109,newamerican venues bars 
+1,4.0,1,327,newamerican bars 
+1,3.5,1,146,portuguese bbq seafood 
+0,4.5,0,23,vegan vegetarian newamerican 
+1,4.5,1,55,breakfast_brunch bars newamerican 
+0,4.5,0,275,newamerican 
+1,4.5,1,89,mediterranean mideastern pizza 
+1,4.5,1,60,bars newamerican 
+0,4.0,0,69,tradamerican breakfast_brunch coffee 
+1,4.0,1,92,italian 
+0,4.0,0,138,italian seafood wine_bars 
+0,3.5,0,178,newamerican french breakfast_brunch 
+1,4.5,1,191,newamerican desserts wine_bars 
+0,4.5,0,73,cocktailbars seafood japanese 
+0,4.0,0,139,italian wine_bars cocktailbars 
+0,4.0,0,64,bars coffee burgers 
+0,4.0,0,161,bars tradamerican breakfast_brunch 
+0,4.0,0,704,mexican bars 
+0,4.5,0,702,coffee breakfast_brunch sandwiches 
+1,4.0,1,716,breakfast_brunch newamerican bars 
+0,4.0,0,658,sandwiches breakfast_brunch japanese 
+1,4.5,1,52,indpak halal 
+0,5.0,0,146,coffee breakfast_brunch sandwiches 
+0,4.5,0,81,coffee sandwiches 
+1,4.0,1,318,breakfast_brunch cafes mideastern 
+0,4.5,0,6,sandwiches breakfast_brunch mexican 
+0,4.5,0,17,delis 
+1,5.0,1,27,burmese foodstands 
+1,4.5,1,122,japanese cafes 
+1,4.5,1,163,bakeries breakfast_brunch wine_bars 
+0,4.5,0,80,thai tradamerican comfortfood 
+0,4.0,0,172,newamerican sandwiches 
+0,4.0,0,438,vietnamese sandwiches bubbletea 
+1,4.5,1,56,poke korean bbq 
+1,4.5,1,54,newamerican mexican breakfast_brunch 
+1,4.0,1,633,french breakfast_brunch cafes 
+0,4.0,0,615,mediterranean cafes breakfast_brunch 
+1,4.5,1,137,cafes sandwiches gluten_free 
+1,4.5,1,20,tradamerican latin 
+1,4.0,1,491,burgers tradamerican sandwiches 
+1,5.0,1,54,comfortfood breakfast_brunch tradamerican 
+0,4.0,0,60,himalayan indpak salad 
+0,4.5,0,118,cafes 
+0,4.5,0,1169,italian sandwiches tapas 
+0,4.5,0,60,indpak gluten_free salad 
+1,5.0,1,35,greek 
+1,4.5,1,396,japanese seafood 
+1,4.0,1,1933,breakfast_brunch newamerican comfortfood 
+1,4.5,1,121,bars breakfast_brunch tradamerican 
+0,4.5,0,183,himalayan newamerican 
+1,4.5,1,23,sushi japanese 
+0,4.5,0,109,newamerican 
+1,5.0,1,21,cafes newamerican seafood 
+0,4.0,0,220,newamerican sandwiches bars 
+0,4.5,0,15,tradamerican 
+1,4.0,1,155,coffee izakaya noodles 
+1,4.0,1,257,newamerican steak bars 
+0,4.5,0,144,wine_bars newamerican 
+0,4.5,0,1780,newamerican tapasmallplates 
+1,4.5,1,263,steak 
+1,4.5,1,708,steak 
+1,4.5,1,47,fooddeliveryservices 
+0,4.0,0,9,fooddeliveryservices 
+1,4.5,1,82,scandinavian bars 
+1,4.0,1,748,newamerican wine_bars steak 
+0,4.5,0,2455,steak 
+0,4.0,0,362,peruvian bars 
+1,4.0,1,2179,bbq cocktailbars 
+0,4.0,0,989,jazzandblues newamerican sushi 
+0,3.5,0,123,fooddeliveryservices 
+1,4.0,1,5049,steak 
+1,4.5,1,258,italian venues wine_bars 
+0,3.5,0,368,steak wine_bars 
+0,4.0,0,13,bars newamerican breakfast_brunch 
+0,4.5,0,360,newamerican chinese 
+0,5.0,0,5,fooddeliveryservices catering 
+1,4.5,1,96,cocktailbars italian wine_bars 
+0,4.0,0,1176,tradamerican italian 
+0,4.0,0,293,seafood seafoodmarkets 
+1,4.5,1,352,newamerican cocktailbars wine_bars 
+0,4.0,0,2798,newamerican french 
+0,4.0,0,427,newamerican breakfast_brunch bars 
+0,4.5,0,816,french cocktailbars steak 
+0,4.5,0,790,french desserts 
+0,4.5,0,2644,steak newamerican seafood 
